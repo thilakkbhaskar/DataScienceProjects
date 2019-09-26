@@ -1,2 +1,1 @@
-# projA
-new project
+# IBM data science and analytics projects
